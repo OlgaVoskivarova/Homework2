@@ -1,0 +1,27 @@
+h1{
+    color: brown; text-align: center;
+}
+.Hobby{
+    border: 5px solid black;
+    background-color: bisque;
+}
+.p1{
+    width: 400px;
+}
+.work{
+    background-color: blanchedalmond;
+    border: 5px solid color green;
+}
+h2{
+color: blueviolet;
+}
+.location{
+    width: 400px;
+}
+.family{
+    background: color blanchedalmond; 
+    border: 5px solid color black;
+}
+.footer{
+    text-align: center;
+}
